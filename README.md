@@ -26,7 +26,7 @@ From your command line, first clone this repo:
 $ git clone https://github.com/aayan-99/Netflix-Clone
 
 # Go into the repository
-$ cd alpha-oryx
+$ cd Netflix-Clone
 
 # Remove current origin repository
 $ git remote remove origin
